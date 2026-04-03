@@ -2,3 +2,10 @@
 /* Applied to: https://backoffice.stylemartbrand.com/view/all/product */
 
 /* Add your custom CSS below for backoffice.stylemartbrand.com */
+
+
+/* Image */
+#productTableBody tr img{
+ width:100px;
+ height:140px;
+}
