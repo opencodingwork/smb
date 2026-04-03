@@ -1,0 +1,25 @@
+/* Gufran's Style Mart Brand - Custom Injected Styles */
+/* Applied to: https://app.stylemartbrand.com */
+
+/* Image preview wrapper */
+.datatable-body .even .image-preview-wrapper {
+  width: 95px !important;
+  height: 95px !important;
+}
+
+/* Image */
+.datatable-body .even img {
+  width: 100% !important;
+  height: 100% !important;
+}
+
+/* Image */
+.datatable-body .odd img {
+  width: 100% !important;
+  height: 100% !important;
+}
+
+.odd .image-preview-wrapper {
+  width: 95px !important;
+  height: 95px !important;
+}
