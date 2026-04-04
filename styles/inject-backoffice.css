@@ -16,15 +16,9 @@
  height:140px;
 }
 
-/* Image (hover) 
+/* Image (hover) */
 .main-content .page-content .container-fluid .relative .col-lg-12 #printableArea .invoice-container .invoice-body .products-table .table-sm tbody tr td .product-info img:hover{
  width:100px !important;
 }
 
-*/
-
-.product-img img:hover{
-transform:scale(3);
- width:100px !important;
-}
 
