@@ -24,5 +24,6 @@
 */
 
 .product-img img:hover{
- width:100px !important;
+transform:scale(3);
+
 }
