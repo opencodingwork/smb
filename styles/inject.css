@@ -23,3 +23,10 @@
   width: 95px !important;
   height: 95px !important;
 }
+
+
+/* Input */
+.window-mode .ng-pristine .ng-star-inserted input[type=text]{
+ text-align:left;
+ width:600px;
+}
