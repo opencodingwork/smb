@@ -44,3 +44,12 @@
 .card-body div .badge{
  font-size:15px;
 }
+
+
+
+
+/* Input */
+.window-mode .ng-pristine .ng-star-inserted input[type=text]{
+ text-align:left;
+ width:600px;
+}
