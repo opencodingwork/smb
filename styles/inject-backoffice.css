@@ -38,3 +38,9 @@
 .table-sm tr img:hover{
  height:140px;
 }
+
+
+/* Badge */
+.card-body div .badge{
+ font-size:15px;
+}
