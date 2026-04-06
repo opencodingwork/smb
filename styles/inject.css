@@ -32,3 +32,13 @@
   overflow: hidden;
   white-space: nowrap;
 }
+
+
+
+/* Close */
+.details-wrapper .ng-star-inserted .close-btn{
+	z-index:1000;
+	transform: translatex(-97vw) translatey(-65px);
+	background-color:#ffffff;
+	
+}
